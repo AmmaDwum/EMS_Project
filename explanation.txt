@@ -1,0 +1,12 @@
+Explanation
+
+This project is a Java + text file version of the Employee Management System.
+The system was simplified for the progress demo so the focus could stay on the main functions.
+
+The current version demonstrates:
+- adding employees
+- viewing employees
+- recording attendance
+- viewing attendance records
+
+The project stores data in text files instead of a database.
